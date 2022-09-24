@@ -1,4 +1,5 @@
 # Ziggy Rafiq Github Website
+### Ziggy Rafiq GitHub version of website can be access on the following URL https://ziggyrafiq.github.io/
 
 ## Requirments
 
